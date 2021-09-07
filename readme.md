@@ -1,4 +1,4 @@
-# Fit the Resistivity-Film Thickness Data
+# Fit Data Using the Resistivity-Film Thickness Model
 
 ### Model:
 
